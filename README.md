@@ -8,5 +8,5 @@ Todo List App using React Native, and Redux.
 4. React-Redux
 
 ## Setup
-1. $npm install in project directory to install libraries
-2. $npm start or $expo start to start app in Expo
+1. 'npm install' in project directory to install libraries
+2. 'npm start' or 'expo' start to start app in Expo
